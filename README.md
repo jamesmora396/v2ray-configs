@@ -5,7 +5,7 @@ Markdown
 
 # 🌐 V2Ray Configs Collection
 
-<a href="https://t.me/+NqWGD5-OGv1jOGU8" target="_blank">
+<a href="https://t.me/nowhermans" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="240" height="240" alt="Telegram"/>
 </a>
 
@@ -16,7 +16,7 @@ Markdown
 
 **🔒 Free • 🚀 Fast • 🔄 Auto-Updated Every 5 Minutes**
 
-[📱 Telegram Channel](https://t.me/+NqWGD5-OGv1jOGU8) • [📥 Get Configs](#-subscription-links) • [📖 How to Use](#-how-to-use)
+[📱 Telegram Channel](https://t.me/nowhermans) • [📥 Get Configs](#-subscription-links) • [📖 How to Use](#-how-to-use)
 
 </div>
 
@@ -96,7 +96,7 @@ If MEMENTO makes your life easier, you can support me to help add even more feat
 
 ## 📢 Telegram & Contact
 
-- **Telegram Channel:** [https://t.me/+NqWGD5-OGv1jOGU8](https://t.me/+NqWGD5-OGv1jOGU8)
+- **Telegram Channel:** [NOWHERE MANS](https://t.me/nowhermans)
 - **Email:** Epodonios@gmail.com
 
 ---
